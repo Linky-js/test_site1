@@ -1,0 +1,496 @@
+body {
+    margin: auto;
+    padding: 0 ;
+    width: 1440px;
+}
+.sector1{
+    background-color: #0F2C4C;
+    display: block;
+}
+.holder1{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+.home{
+    position: absolute;
+    margin-left: 157px;
+}
+.sector2{
+    display: block;
+}
+.box1{
+   margin: 0;
+    display: flex;
+    justify-content: right;
+    color: white;
+    flex-direction: column;
+    align-items:flex-end;
+}
+.box2{
+   
+    display: flex;
+    justify-content: left;
+    color: #0F2C4C;
+    flex-direction: column;
+    align-items:flex-start;
+    margin-bottom: 67px;
+}
+.hour , .compleks , .line1{
+    width: 418px;
+    margin-left: 671px;
+}
+.line1{
+    border-bottom: 3px solid #0F2C4C;
+    width: 44px;
+    margin-top: 95px;
+    margin-bottom: 15.39px;
+}
+.hour{
+    font-family: 'Open Sans';
+    font-style: normal; 
+    font-size: 18px;
+}
+.compleks{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+}
+.sector1 li{
+    display: block;
+    margin-right: 220px; 
+}
+.sector2 li , li{
+    display: block;
+}
+.project{
+    margin: 108px 220px 34px 0;
+}
+.boxone{
+    margin-top: 116px;
+    margin-bottom: 65px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 10px 22.76px 14px 22.76px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 18px;
+    line-height: 126.8%;
+}
+span{
+    font-weight: 700;
+}
+.box3{
+    display: flex;   
+    color: white;
+    flex-direction: column; 
+    padding: 0;    
+}
+.sector3{
+    background-color: #0F2C4C;
+    color: white;
+    display: flex;
+    align-items:flex-start;
+   padding-left: 70px;
+   padding-right: 70px;
+   padding-bottom: 70px;
+}
+.figure li{
+    display: block;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    width: 15%;
+
+}
+.figure{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0;
+}
+.figure img{
+    width: 90px;
+    height: 90px;
+}
+.line2{
+    border-bottom: 3px solid #F6F6F6;
+    width: 44px;
+    margin-top: 68.83px;
+    margin-bottom: 17.9px;
+    margin-left: 50px;
+}
+.infrastrukture{
+    margin-left: 50px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+}
+.sector4{
+    display: block;
+    background-color: #F7F7F7;
+}
+.box4:not(.home2){
+    display: flex;
+    justify-content: left;
+    color: #0F2C4C;
+    flex-direction: column;
+    
+    margin-bottom: 0px;
+    margin-left: 147px;
+    margin-top: 0;
+    padding: 0;
+}
+.description{
+    width: 295px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 212.64px;
+    margin-top: 24.97px;
+}
+.disain{
+    width: 305px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+}
+.benefits{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 44px;
+    margin-bottom: 255px;
+}
+.line3{
+    border-bottom: 3px solid #0F2C4C;
+    width: 44px;
+    margin-top: 113px;
+    margin-bottom: 14px;
+}
+.home2{
+    display: block;
+    position: absolute;
+    margin-left: 666px;
+    margin-top: 298.71px;
+}
+.sector5{
+    background-color: #0F2C4C;
+    color: white;
+    display: block;
+    margin: 0;
+}
+.box5{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.wood{
+    margin-left: 150.3px;
+    margin-top: 152.38px;
+    margin-bottom: 115.56px;
+}
+.routes ul{
+    margin-top: 239.41px;
+    margin-left: 161px;
+    padding: 0;
+}
+.route{
+    width: 200.5px;
+    height: 33.2px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    margin-bottom: 81.35px;
+}
+.description2{
+    width: 498.5px;
+    font-weight: 400;
+    font-size: 18px;
+    
+   
+}
+.sector6{
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F7;
+}
+.box6{
+    display: flex;
+    justify-content: left;
+    color: #0F2C4C;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+.turizm_photo{
+    position: absolute;
+    margin-top: 104.01px;
+    margin-left: 676.84px;
+}
+.walking{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    margin-top: 204.69px;
+    margin-left: 155.63px; 
+    width: 200.25px;
+}
+.turizm{
+    font-size: 18px;
+    font-weight: 700;
+    width: 325.33px;
+    margin-top: 31.68px;
+    margin-left: 155.63px;
+    margin-bottom: 97.87px;
+}
+.sector7{
+    background-color: #0F2C4C;
+    color: white;
+    display: block;
+    margin: 0;
+}
+.box7{
+    display: flex;
+    margin: 0;
+}
+.yoga_photo{
+    display: block;
+    margin: 293px 0 145.72px 149.21px;
+}
+.yoga-winter{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    display: block;
+    margin-top: 282.87px;
+    margin-left: 164.16px;
+    
+}
+.description3{
+    width: 520.67px;
+    margin-left: 164.16px;
+    margin-top: 34px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+.boxes{
+    display: flex;
+    gap: 29px;
+    justify-content: center;
+    margin-bottom: 168.28px;
+}
+.boxes li{
+    display: block;
+    width: 170.84px;
+    height: 285.51px;
+    box-shadow: 0px 17px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 11.46px 16px 0 21.56px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0F2C4C;
+    
+
+}
+.sector8{
+    background-color: #F7F7F7;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.box8{
+    display: flex;
+    justify-content: left;
+    color: #0F2C4C;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.line4{
+    border-bottom: 3px solid #0F2C4C;
+    width: 44px;
+    margin-top: 104.11px;
+    margin-left: 151.56px;
+}
+.investion{
+    margin-left: 150px;
+    margin-top: 1.93px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 86.83px;
+    height: 88px;
+    
+}
+.boxes .price{
+    height: 38px;
+    margin-bottom: 55.22px;
+}
+.boxes .description4{
+    height: 66px;
+    margin-bottom: 114.83px;
+    
+}
+.boxes span{
+    font-size: 32px;
+    font-weight: 900;
+}
+.home3{
+    position: absolute;
+    margin-left: 858.39px;
+    margin-top: 680.76px;
+}
+.sector9{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.box9{
+    display: flex;
+    justify-content: left;
+    color: #0F2C4C;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.line5{
+    border-bottom: 3px solid #0F2C4C;
+    width: 44px;
+    margin-top: 153.54px;
+    margin-left: 151.61px;
+}
+.developer{
+    margin-left: 150px;
+    margin-top: 1.93px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 86.83px;
+    height: 88px;
+}
+.description5{
+    width: 500px;
+    height: 242px;
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 150.3px;
+    margin-bottom: 186.59px;
+}
+.sector10{
+    background-color:#0F2C4C;
+    color: white;
+}
+.contacs a{
+    color: white;
+}
+.socials {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+.socials__item {
+    margin-bottom: 10px;
+}
+.socials__item-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.socials__item-img {
+    margin-right: 8px;
+}
+.socials__item:nth-child(1){
+    margin-bottom: 23px;
+}
+.logo_description{
+    margin-top: 0;
+    font-size: 20px;
+}
+.sector10 ul{
+    margin-left: 149.6px;
+    padding: 0;
+}
+.logo{
+    margin-bottom: 166px;
+}
+.sector10 {
+    display: flex;
+}
+.sector10 .yulia{
+    width: 400px;
+    display: grid;
+    grid-template-columns: 160px 250px;
+    grid-template-areas: "yulia_photo yulia_name"
+                         "yulia_photo yulia_tel";
+    margin-top: 82.15px;
+    margin-bottom: 30.95px;
+    margin-left: 102.29px;
+}
+.yulia_photo{
+    grid-area: yulia_photo;
+}
+.yulia_name{
+    grid-area: yulia_name;
+    font-size: 20px;
+    
+}
+.yulia_name span{
+    font-size: 28px;
+    font-weight: 700;
+}
+.yulia_tel{
+    grid-area: yulia_tel;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.sector_box{
+    border-right: 2px solid white;
+    margin-top: 89.05px;
+    padding-right: 76.88px;
+    margin-bottom: 89px;
+}
+.anastasya {
+    width: auto;
+    display: grid;
+    grid-template-columns: 160px 280px;
+    grid-template-areas: "anastasya_photo anastasya_name"
+                         "anastasya_photo anastasya_tel";
+    margin-top: 82.15px;
+    margin-bottom: 30.95px;
+    margin-left: 102.29px;
+}
+.anastasya_photo {
+    grid-area: anastasya_photo;
+}
+.anastasya_name {
+    grid-area: anastasya_name;
+    font-size: 20px;
+}
+.anastasya_tel {
+    grid-area: anastasya_tel;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.anastasya_name span{
+    font-size: 28px;
+    font-weight: 700;
+}
+
